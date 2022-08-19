@@ -1,3 +1,8 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = ''
+languageCode = 'fr'
+title = 'Alliance Immo'
+
+[params]
+    author = "Francois LCS"
+    linkedin = "https://fr.linkedin.com/in/fran%C3%A7ois-lacuisse" 
+    website = "https://hugo-francois.netlify.app"
